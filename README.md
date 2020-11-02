@@ -1,2 +1,2 @@
 # motorDB 
-Este proyecto fue hecho con el IDE DEV C++, recomendable abrilo con el 
+This project was made with the DEV C ++ IDE, I recommend opening it with it.
